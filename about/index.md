@@ -13,3 +13,4 @@ HIT在读，找工作ing
 现在在腾讯上海做后台开发
 
 这是我的[github](https://github.com/dxyinme)
+这是我的[gitee](https://gitee.com/dxyinme)
