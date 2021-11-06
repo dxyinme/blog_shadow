@@ -1,8 +1,7 @@
 ---
-layout: 技术相关
 title: LIBPNG学习笔记
 date: 2021-10-23 15:20:39
-tags:
+tags: 技术相关
 ---
 
 ## 写在前面
